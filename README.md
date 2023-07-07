@@ -1,7 +1,7 @@
 # PubG-Game-Prediction
 PubG game Winning Prediction based on CatBoost Model
 
-Dataset - ![Kaggle - Pub g Game Dataset](https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset)
+Dataset - [Kaggle - PubG Game Dataset](https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset)
 
 In the project "PubG Game Winning Prediction," a CatBoost model was used along with RMSE (Root Mean Square Error) and Grid Search techniques. The goal of the project was to predict the winning placement percentile for players in the game PlayerUnknown's Battlegrounds (PUBG). 
 
